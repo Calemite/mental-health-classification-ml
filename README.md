@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Class Mental Health Classification
 
 ## Overview
@@ -50,3 +51,7 @@ This project applies machine learning techniques to classify mental health condi
 - Accuracy
 - Macro F1-Score
 - Weighted F1-Score
+=======
+# mental-health-classification-ml
+A university project as part of our learning experience in Machine Learning. This is a multi class mental health classification project using TF-IDF and machine learning models
+>>>>>>> b5d6f0bd404747b8f13558501826f7874cb173de
